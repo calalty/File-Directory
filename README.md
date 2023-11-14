@@ -2,6 +2,10 @@
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
+## Preview
+
+![chrome-capture-2023-10-14](https://github.com/calalty/File-Directory/assets/64406113/e81f890a-e4f4-4f88-8bc2-37bc9127794e)
+
 ## Available Scripts
 
 In the project directory, you can run:
